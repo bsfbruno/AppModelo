@@ -24,4 +24,7 @@ C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcorea
 C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Dev.UI.Site.pdb
 C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Dev.UI.Site.csproj.CopyComplete
 C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Dev.UI.Site.csprojAssemblyReference.cache
-C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Razor\Areas\Produtos\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Razor\Modulos\Produtos\Views\Cadastro\Index.g.cshtml.cs
+C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Razor\Modulos\Produtos\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Razor\Modulos\Vendas\Views\Pedidos\Index.g.cshtml.cs
+C:\Users\User\Documents\WorkspaceVS\AppModelo\src\Dev.UI.Site\obj\Debug\netcoreapp2.1\Razor\Modulos\Vendas\Views\_ViewStart.g.cshtml.cs
